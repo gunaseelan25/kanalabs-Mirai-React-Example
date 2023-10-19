@@ -368,7 +368,7 @@ function App() {
 
       <footer className="footer">
         <a
-          href="https://github.com/gunaseelan25"
+          href="https://github.com/kanalabs/mira-sdk-examples"
           target="_blank"
           rel="noopener noreferrer"
         >
